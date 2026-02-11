@@ -10,17 +10,8 @@
 # Preview da Aplicação
 
 <div align="center">
-  <img src="assets/preview.png" width="400"/>
+  <img src="preview.png"/>
 </div>
-
----
-
-## Índice
-
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades](#-funcionalidades)
-- [Stack Tecnológica](#-stack-tecnológica)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
 
 ---
 
