@@ -7,6 +7,13 @@
 > Aplicação web interativa para padronização, limpeza e tratamento automático de planilhas CSV.
 
 ---
+# Preview da Aplicação
+
+<div align="center">
+  <img src="assets/preview.png" width="400"/>
+</div>
+
+---
 
 ## Índice
 
